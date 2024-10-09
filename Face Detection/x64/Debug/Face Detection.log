@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\yagmu\source\repos\Face Detection\Face Detection\main.cpp(10,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Face Detection.vcxproj -> C:\Users\yagmu\source\repos\Face Detection\x64\Debug\Face Detection.exe
