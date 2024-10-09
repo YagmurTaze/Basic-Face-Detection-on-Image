@@ -21,8 +21,8 @@ Here are some sample results of the face detection project:
 
 ![Result 2](result/face2.png)
 
-Scale: 1.05
-![Result 3](result/scale-1.05.png)
+Scale: 1.1
+![Result 3](result/scale-1.1.png)
 
 Scale: 1.01
 ![Result 3](result/scale-1.01.png)
