@@ -17,12 +17,13 @@ This project implements a face detection system using OpenCV's pre-trained Haar 
 
 Here are some sample results of the face detection project:
 
-![Result 1](results/face1.png)
+![Result 1](result/face1.png)
 
-![Result 2](results/face2.png)
+![Result 2](result/face2.png)
 
-![Result 3](results/scale-1.05.png)
+Scale: 1.05
+![Result 3](result/scale-1.05.png)
 
-Last one is very slow because of the scale
-![Result 3](results/scale-1.01.png)
+Scale: 1.01
+![Result 3](result/scale-1.01.png)
 
