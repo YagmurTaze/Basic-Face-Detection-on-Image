@@ -13,7 +13,7 @@ This project implements a face detection system using OpenCV's pre-trained Haar 
    ```bash
    git clone https://github.com/YagmurTaze/Basic-Face-Detection-on-Image.git
 
-## Sample Results
+## Results
 
 Here are some sample results of the face detection project:
 
